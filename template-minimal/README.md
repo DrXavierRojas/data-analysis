@@ -1,26 +1,12 @@
-# Research Analysis Starter
+# Template Minimal
 
-This is a minimal starter repository for reproducible academic data analysis.
+This is a lightweight starter template for students or researchers starting a new data analysis project.
 
-## 🔧 Setup
+## 📦 What's Included
 
-Install requirements:
-```bash
-pip install -r requirements.txt
-```
+- Minimal structure with `data/`, `plots/`, and `styles/`
+- One working example plot (`fig1_sinewave.py`)
+- Clean Matplotlib `.mplstyle` for easy reuse
+- `requirements.txt` for quick setup
 
-## ▶️ Run Example
-
-```bash
-python plots/fig1_sinewave.py
-```
-
-This will save a PDF figure in `figures_dev/`.
-
-## 📂 Structure
-
-- `data/` — raw and processed data folders
-- `plots/` — Python scripts for generating plots
-- `styles/` — Matplotlib style sheets
-
-This is a lightweight foundation for students or collaborators.
+Use this to start real projects. Copy components from `template-full` as needed.
