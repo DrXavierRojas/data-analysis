@@ -1,0 +1,21 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# OS files
+.DS_Store
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
