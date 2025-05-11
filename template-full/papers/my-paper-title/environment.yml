@@ -1,0 +1,10 @@
+name: paper-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - matplotlib
+  - numpy
+  - pip
+  - pip:
+      - plotly

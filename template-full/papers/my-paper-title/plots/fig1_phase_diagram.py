@@ -1,0 +1,1 @@
+# Example placeholder for fig1_phase_diagram.py

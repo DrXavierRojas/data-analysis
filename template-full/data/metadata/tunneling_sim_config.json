@@ -1,0 +1,13 @@
+{
+  "simulation_id": "tsim-2025-05-11",
+  "version": "v1.2.0",
+  "parameters": {
+    "grid_points": 512,
+    "potential_depth": -1.25,
+    "initial_state": "gaussian",
+    "boundary": "periodic"
+  },
+  "seed": 4815162342,
+  "run_time_seconds": 238.3,
+  "data_file": "tunneling_output.h5"
+}

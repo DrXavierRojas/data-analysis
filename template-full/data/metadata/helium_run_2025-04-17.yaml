@@ -1,0 +1,20 @@
+experiment:
+  id: run-0425
+  date: 2025-04-17
+  operator: "Alice & Bob"
+  location: "Lab 3, cryostat A"
+
+conditions:
+  temperature_mK: 47.8
+  pressure_bar: 1.20
+  bias_voltage_uV: 35
+  cavity_frequency_GHz: 9.0
+
+sample:
+  material: "He-4 in nanopore"
+  substrate: "Graphene"
+  preplating: "None"
+
+notes: |
+  Cell pre-cooled overnight.
+  Slight thermal drift observed after 2 hours.

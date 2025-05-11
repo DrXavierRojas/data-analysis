@@ -1,0 +1,13 @@
+name: my-project-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - matplotlib
+  - numpy
+  - pandas
+  - jupyter
+  - pyyaml
+  - pip
+  - pip:
+      - plotly
