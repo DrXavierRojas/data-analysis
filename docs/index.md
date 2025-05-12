@@ -4,6 +4,14 @@ Welcome to the `data-analysis` toolkit — a unified framework for reproducible 
 
 ---
 
+## 📚 Documentation
+
+- [Getting Started](getting-started.md)
+- [Plotting Guide](plotting-guide.md)
+- [Metadata Guide](metadata-guide.md)
+
+----
+
 ## 📁 Project Structure
 
 This repository contains two reusable templates:
